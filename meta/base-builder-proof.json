@@ -1,0 +1,10 @@
+{
+  "app": "Tiny Treaty",
+  "theme": "pact",
+  "baseAppId": "6a07d677bc175abcdd56519a",
+  "builderWallet": "0x6Dfd315d3Cd75dfa99D6705369E9ba1ddcf5cB1b",
+  "builderCode": "bc_3eyl8quh",
+  "network": "Base",
+  "liveDemo": "https://tiny-treaty.vercel.app",
+  "repository": "https://github.com/lusoly/tiny-treaty-base-dapp"
+}
